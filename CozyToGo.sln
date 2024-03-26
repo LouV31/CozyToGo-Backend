@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CozyToGo", "CozyToGo\CozyToGo.csproj", "{520C7E0F-7789-404B-AA30-437D744B8FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{520C7E0F-7789-404B-AA30-437D744B8FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520C7E0F-7789-404B-AA30-437D744B8FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520C7E0F-7789-404B-AA30-437D744B8FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520C7E0F-7789-404B-AA30-437D744B8FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D276664-8C96-4E08-97CF-41E1E0F386D2}
+	EndGlobalSection
+EndGlobal
